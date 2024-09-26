@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    font-family: "Roboto", system-ui
+}
+.content{
+  width: 900px;
+  height: 500px;
+  background: #244BC5;
+  margin: auto;
+  display: flex;
+}
+
+.block{
+    width: 850px;
+    height: 480px;
+    background: #244BC5;
+    margin: auto;
+}
+.block-text{
+    width: 300px;
+    height: 30px;
+    background: #244BC5;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.block-avto-cont{
+    width: 700px;
+    height: 400px;
+    background: #244BC5;
+    display: flex;
+    margin: auto;
+}
+.text-Stax{
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+.block-avto{
+    width: 700px;
+    height: 350px;
+    background-color: #fff;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.input{
+    width: 450px;
+    height: 40px;
+   padding: 15px;
+   border-radius: 5px;
+   margin-left: 140px;
+   margin-top: 10px;
+   background: #F5F5F5;
+
+}
+
+.block-input{
+    width: 370px;
+    height: 30px;
+    background-color:#fff;
+    margin: auto;
+    color: darkgray;
+}
+.p-Email{
+    text-align: center;
+    margin-right: 300px;
+    margin-top: 20px;
+    color: darkgrey;
+}
+
+.p-Password{
+    text-align: center;
+    margin-right: 330px;
+    margin-top: 30px;
+    color: darkgrey;
+}
+
+.forgot{
+    margin-left: 70%;
+    margin-top: 7px;
+    color: darkgray;
+}
+
+.button{
+    width: 450px;
+    height: 40px;
+    margin-left: 20%;
+    margin-top: 20px;
+    border-radius: 7px;
+    color: #fff;
+    background: #2148C0;
+    border: none;
+
+}
